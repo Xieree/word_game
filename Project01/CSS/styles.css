@@ -1,0 +1,57 @@
+/* the body styles everything in the page */
+body{
+	background-color:#DCFBFF;
+	margin:0 auto;
+background-image: linear-gradient(to right top, #52a2ec, #00bee5, #00d0b3, #92d775, #f6cf5b);
+}
+
+/* the wrapper helps me contain all the content */
+#wrapper {
+	background-position: center;
+	width:70%;
+	margin: 10% auto;  
+    padding: 50pt;
+}
+
+h1 {
+	font-family:Tahoma, Arial, sans-serif;
+	font-size:40pt;
+	color:#3075C9;
+}
+
+h2 {
+	font-family:Trebuchet, Arial, sans-serif;
+	font-size:24pt;
+	color:#2F5F80;
+}
+
+p {
+	font-family:Trebuchet, Arial, sans-serif;
+	font-size:18pt;
+	color:#0E3975;
+}
+
+a:link {
+	font-family:Trebuchet, Arial, sans-serif;
+	font-size:18pt;
+}
+
+a:link {
+	color:#4B97B3;
+	text-decoration:none;
+}
+
+a:visited {
+	color:#0F6375;
+	text-decoration:italic;
+}
+
+a:active {
+	color:;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#FFA085;
+	text-decoration:none;
+}
